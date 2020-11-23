@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://IdrissAmraoui:bigalow95@contactkeeper.imjs4.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://IdrissAmraoui:bigalow95@contactkeeper.imjs4.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
